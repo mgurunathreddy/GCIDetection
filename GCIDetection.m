@@ -1,7 +1,6 @@
-function [GCILoc] = VUVClassification(filename)
+function [GCILoc] = GCIDetection(filename)
 % filename - wav file is given as input
 b = load('filter.mat');
-%filename = 'C:\Users\KSRAO\Documents\Dataset\CMU with GCI\CMU\jmk file\SPEECH\arctic_a0008_speech.wav';
 [speechSig,Fs] = audioread(filename);
 
 % Peak Emphasis
