@@ -15,3 +15,5 @@ Manually annotated GCI dataset for CMU-ARCTIC dataset [1] is available at
 http://www.sit.iitkgp.ernet.in/ksrao/gci-goi/egg-gci-goi.html
 
 Source code is tested in Windows Environment in Matlab 2015A.
+
+[1] J. Kominek and A. W. Black, “The CMU Arctic Speech Databases,” in Fifth ISCA Workshop on Speech Synthesis, 2004.
