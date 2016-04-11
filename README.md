@@ -1,4 +1,5 @@
 A Robust Non-Parametric and Filtering Based Approach for Glottal Closure Instant Detection
+
 Authors : Pradeep Rengaswamy, Gurunath Reddy M, K. Sreenivasa Rao, Pallab Das Gupta
 
 Speech is filtered using Raised Cosine Filter (RCF). The RCF is a pulse shaping low-pass filter widely used in digital communication for minimizing the inter symbol interference. Initially, the RCF filtered speech signal is thresholded to detect the voiced/unvoiced regions. In each identified voiced regions, the peaks corresponding to the GCIs are emphasised by non-linear filtering. Followed by a novel average epoch interval detection method based on the histogram and GCI detection based on peak picking approach is proposed. 
